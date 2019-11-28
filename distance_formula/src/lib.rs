@@ -11,7 +11,7 @@ pub fn line_dis_formula() {
     io::stdin().read_line(&mut x_1).expect("no x_1 value is given data");
     let x_1 = x_1.trim().parse::<f32>().unwrap();
 
-    println!("\n        now ordinate please");
+    println!("\n        Now ordinate please");
 
     let mut y_1 = String::new();
     io::stdin().read_line(&mut y_1).expect("no y_1 value is given data");
@@ -38,6 +38,7 @@ pub fn line_dis_formula() {
     // merhod distance is being called here
 
     let distance = point_1.distance(point_2);
+    println!("\n          Answer:");
     println!("\n          ========================================================= ");
     println!("\n          The distance between the points P_1 and P_2 is : {}\n          ", distance);
     println!("          ========================================================= ");
