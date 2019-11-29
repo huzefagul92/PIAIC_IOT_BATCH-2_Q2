@@ -1,0 +1,1 @@
+/home/muhammad/Desktop/PIAIC_IOT_BATCH-2_Q2/distance_formula/target/debug/line_formula: /home/muhammad/Desktop/PIAIC_IOT_BATCH-2_Q2/distance_formula/src/lib.rs /home/muhammad/Desktop/PIAIC_IOT_BATCH-2_Q2/distance_formula/src/main.rs

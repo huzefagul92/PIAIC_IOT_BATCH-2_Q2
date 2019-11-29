@@ -1,1 +1,1 @@
-/home/muhammad-huzefa/Desktop/muhammad_huzefa/piaic/IOT_Q2/rust_book_practice/Ch_10/distance_formula/target/package/distance_formula-0.1.0/target/debug/libdistance_formula.rlib: /home/muhammad-huzefa/Desktop/muhammad_huzefa/piaic/IOT_Q2/rust_book_practice/Ch_10/distance_formula/target/package/distance_formula-0.1.0/src/lib.rs
+/home/muhammad/Desktop/PIAIC_IOT_BATCH-2_Q2/distance_formula/target/package/distance_formula-0.1.0/target/debug/libdistance_formula.rlib: /home/muhammad/Desktop/PIAIC_IOT_BATCH-2_Q2/distance_formula/target/package/distance_formula-0.1.0/src/lib.rs

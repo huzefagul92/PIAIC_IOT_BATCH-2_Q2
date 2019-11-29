@@ -15,5 +15,12 @@ edition = "2018"
 name = "distance_formula"
 version = "0.1.0"
 authors = ["Muhammad Huzefa <huzefagul92@gmail.com>"]
+description = "The distance formula is used to calculate distance between two points in Rectangular Co-ordinate System"
+homepage = "https://doc.rust-lang.org/book/title-page.html"
+documentation = "https://doc.rust-lang.org/book/ch10-01-syntax.html"
+keywords = ["distance", "line_distance", "distance_formula", "line_distance_formula", "line_formula"]
+categories = ["algorithms"]
+license = "MIT"
+repository = "https://github.com/huzefagul92/PIAIC_IOT_BATCH-2_Q2.git"
 
 [dependencies]
